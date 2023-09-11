@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": [
+      "es5",
+      "DOM"
+    ],
+    "moduleResolution": "NodeNext",
+    "outDir": "./dist",
+    "strict": true,
+    "strictNullChecks": true,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./node_modules/@figma"
+    ],
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
+  },
+}

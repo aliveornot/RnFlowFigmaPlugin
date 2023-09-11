@@ -1,0 +1,11 @@
+.env
+
+# Node
+*.log
+*.log.*
+node_modules
+
+out/
+dist/
+temp/
+code.js

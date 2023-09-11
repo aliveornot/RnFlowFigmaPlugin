@@ -1,0 +1,20 @@
+{
+  "name": "RN-Flow",
+  "id": "1260477949715606742",
+  "api": "1.0.0",
+  "main": "dist/index.js",
+  "capabilities": [
+    "codegen"
+  ],
+  "codegenLanguages": [
+    {
+      "label": "React Native",
+      "value": "TYPESCRIPT"
+    }
+  ],
+  "enableProposedApi": false,
+  "editorType": [
+    "dev"
+  ],
+  "ui": "dist/ui.html"
+}
